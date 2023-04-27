@@ -26,7 +26,7 @@ You can enable this by including a flag `--scrape-website` in the command like s
 python script.py --query="Lawer near" --places="California" --scrape-website
 ```
 
-This will add "Website" column to the excel output file.
+This will add "Website" column to the excel output file in Output folder.
 
 ## Requirements
 As this app is made with Python and Selenium, it is required to install [Python](https://www.python.org/downloads/) and also it requires the Chrome driver, which you can download from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads). Make sure to select your browser version and put the downloaded executable in the PATH variable in your system.
